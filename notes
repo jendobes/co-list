@@ -1,1 +1,10 @@
 bundle exec rails s -p 3001
+
+
+in coliving and coworking card components, pass down the entire list of cospaces and loop through each to render
+the individual profile in the component, then wrap the listed profiles in a div so they can be inline-bound
+and look like boxes, three to a row.
+
+each box should be equal, if about text is over a certain length truncate it
+
+pages need images and styling
